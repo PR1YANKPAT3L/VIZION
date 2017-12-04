@@ -14,3 +14,7 @@ In order to compile OpenCV, OpenCv Contribs and CUDA must be configured during c
 ## To run hadoop
 - Go to out_jar
 - run: hadoop VIZION.jar <input_path_hdfs> <output_path_hdfs>
+
+## References
+- https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html
+- Hadoop Documentation
