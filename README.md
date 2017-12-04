@@ -12,7 +12,6 @@
 In order to compile OpenCV, OpenCv Contribs and CUDA must be configured during cmake in order for the libraries to work
 
 ## To run hadoop
-- Go to out_jar
 - run: hadoop VIZION.jar <input_path_hdfs> <output_path_hdfs>
 
 ## References
